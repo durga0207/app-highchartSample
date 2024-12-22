@@ -1,0 +1,7 @@
+.active-link {
+    font-weight: bold;
+    color: red;
+  }
+  .navbar{
+    justify-content: flex-start;
+  }
